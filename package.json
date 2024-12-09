@@ -1,9 +1,9 @@
 {
-	"name": "vscode-theme-onedark-vivid",
+	"name": "better-one-dark-vivid-theme",
 	"displayName": "Better One Dark Vivid Theme",
 	"description": "Better One Dark Vivid Theme",
 	"version": "1.0.0",
-	"publisher": "jaaronkot",
+	"publisher": "devzhaoyou",
 	"license": "MIT",
 	"galleryBanner": {
 		"color": "#282C34",
@@ -42,7 +42,7 @@
 	"__metadata": {
 		"id": "de187221-f8d6-4a98-ba49-3d49186d9c14",
 		"publisherId": "9106205b-1ca2-48a8-826b-ce2a23edb517",
-		"publisherDisplayName": "gezhaoyou",
+		"publisherDisplayName": "devzhaoyou",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,

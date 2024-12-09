@@ -1,6 +1,8 @@
 # One Dark Vivid theme for VSCode
 
-VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-highlighter-syntax) theme, that features vivid syntax colors that aren't as depressing as default from [One Dark](https://github.com/atom/one-dark-syntax) and a Spacegray editor colors.
+Better One Dark Vivid VSCode Theme
+
+### Preview
 
 ![](./art/screenshot.jpg)
 
@@ -8,9 +10,5 @@ VSCode Theme based on [Electron Highlighter](https://atom.io/themes/electron-hig
 
 ## Installing
 
-## Credits
+VSCode [Marketplace](https://marketplace.visualstudio.com/items?itemName=devzhaoyou.better-one-dark-vivid-theme)
 
-
-[Akamud](https://github.com/akamud/vscode-theme-onedark) - One Dark theme port used as source
-
-[mmcbride1007](https://github.com/mmcbride1007/electron-highlighter-syntax) - Electron Highlighter Atom theme
