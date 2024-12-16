@@ -2,7 +2,7 @@
 	"name": "better-one-dark-vivid-theme",
 	"displayName": "Better One Dark Vivid Theme",
 	"description": "Better One Dark Vivid Theme",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"publisher": "devzhaoyou",
 	"license": "MIT",
 	"galleryBanner": {
@@ -25,23 +25,30 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "One Dark Vivid",
+				"id": "Better One Dark Vivid",
+				"label": "Better One Dark Vivid",
 				"uiTheme": "vs-dark",
-				"path": "./themes/OneDarkVivid.json"
+				"path": "./themes/BetterOneDarkVivid.json"
+			},
+			{
+				"id": "Better One Dark Vivid Cpp",
+				"label": "Better One Dark Vivid Cpp",
+				"uiTheme": "vs-dark",
+				"path": "./themes/BetterOneDarkVividCpp.json"
 			}
 		]
 	},
 	"bugs": {
-		"url": "https://github.com/jaaronkot/vscode-theme-onedark-vivid/issues"
+		"url": "https://github.com/jaaronkot/better-one-dark-vivid/issues"
 	},
-	"homepage": "https://github.com/jaaronkot/vscode-theme-onedark-vivid",
+	"homepage": "https://github.com/jaaronkot/better-one-dark-vivid",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/jaaronkot/vscode-theme-onedark-vivid"
+		"url": "https://github.com/jaaronkot/better-one-dark-vivid"
 	},
 	"__metadata": {
-		"id": "de187221-f8d6-4a98-ba49-3d49186d9c14",
-		"publisherId": "9106205b-1ca2-48a8-826b-ce2a23edb517",
+		"id": "851f83d7-386f-49fb-9653-60e16cc5ed42",
+		"publisherId": "851f83d7-386f-49fb-9653-60e16cc5ed42",
 		"publisherDisplayName": "devzhaoyou",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
