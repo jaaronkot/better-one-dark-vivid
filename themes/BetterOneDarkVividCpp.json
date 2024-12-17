@@ -259,7 +259,7 @@
                 "variable.parameter"
             ],
             "settings": {
-                "foreground": "#a8b5d0"
+                "foreground": "#e56674"
             }
         },
         {
@@ -1600,6 +1600,22 @@
             }
         },
         {
+            "name": "[VSCODE-CUSTOM] C++ Class",
+            "scope": [
+                "entity.name.type.class.cpp",
+                "meta.block.namespace.cpp",
+                "meta.block.class.cpp",
+                "meta.class.cpp",
+                "meta.class.definition.cpp",
+                "meta.class.cpp storage.type",
+                "meta.class.cpp storage.type punctuation.definition.storage.type",
+                "meta.class.cpp punctuation.definition.storage.type",
+            ],
+            "settings": {
+                "foreground": "#E5C07B"
+            }
+        },
+        {
             "name": "[VSCODE-CUSTOM] C++ Variable",
             "scope": [
                 "variable.other.object.declare.cpp",
@@ -1607,13 +1623,6 @@
             ],
             "settings": {
                 "foreground": "#e56674"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] C++ Variable Parameter",
-            "scope": "variable.parameter.cpp",
-            "settings": {
-                "foreground": "#e56674",
             }
         },
         {
@@ -1626,22 +1635,13 @@
         {
             "scope": "entity.name.namespace",
             "settings": {
-                "foreground": "#E5C07B"
+                "foreground": "#DEA188"
             }
         },
         {
             "scope": "string.quoted.other.lt-gt.include.cpp",
             "settings": {
                 "foreground": "#DEA188"
-            }
-        },
-        {
-            "name": "cpp Namespace",
-            "scope": [
-                "entity.name.namespace.cpp"
-            ],
-            "settings": {
-                "foreground": "#E5C07B"
             }
         },
         {
@@ -1663,42 +1663,15 @@
             }
         },
         {
-            "name": "[VSCODE-CUSTOM] C++ Class",
+            "name": "cpp structs",
             "scope": [
-                "entity.name.type.class.cpp",
-                "meta.block.class.cpp",
-                "meta.block.namespace.cpp",
-                "meta.class.cpp",
-                "meta.class.definition.cpp",
-                "meta.class.cpp storage.type",
-                "meta.class.cpp storage.type punctuation.definition.storage.type",
-                "meta.class.cpp punctuation.definition.storage.type",
-                "meta.block.class.cpp"
+                "entity.name.type.struct.cpp",
+                "meta.block.struct.cpp"
             ],
             "settings": {
                 "foreground": "#E5C07B"
             }
         },
-        {
-            "name": "cpp structs",
-            "scope": [
-                "variable.parameter.cpp",
-                "entity.name.type.struct.cpp",
-                "meta.block.struct.cpp"
-            ],
-            "settings": {
-                "foreground": "#6fc3ff"
-            }
-        },
-        {
-            "name": "[VSCODE-CUSTOM] C++ Parameter",
-            "scope": [
-                "variable.parameter.cpp"
-            ],
-            "settings": {
-                "foreground": "#20aec7"
-            }
-        }
     ],
     "uuid": "32bd64fa-d60a-4858-a5fc-5164cc49a2b8"
 }
