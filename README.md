@@ -1,10 +1,12 @@
 # Better One Dark Vivid Theme For VSCode 
 
-
+**Simple. Clear. Powerful. A VS Code theme designed to elevate your coding experience.**
 
 
 ## Overview
 Better One Dark Vivid is a vibrant and visually appealing theme for Visual Studio Code, inspired by the popular One Dark theme. It offers a high contrast and colorful experience that enhances code readability and overall user experience.
+
+## Screenshots
 
 ![](./art/screenshot.jpg)
 
@@ -13,7 +15,6 @@ Better One Dark Vivid is a vibrant and visually appealing theme for Visual Studi
 ## Features
 - **High Contrast**: Easy on the eyes with clear distinctions between different elements.
 - **Colorful**: Enhanced color coding for better identification of syntax and structure.
-- **Customizable**: Allows for easy adjustments to suit personal preferences.
 
 ## Installation
 
@@ -30,9 +31,6 @@ To install the OneDark Vivid theme, follow these steps:
 5. Once installed, click the gear icon in the lower left corner of the VS Code window to open Settings.
 6. Select "Color Theme" from the dropdown menu.
 7. Choose "Better One Dark Vivid" from the list of available themes.
-
-## Customization
-The theme includes several settings that can be customized to your liking. You can adjust the colors, fonts, and other aspects to create a personalized coding environment.
 
 ## Contributing
 If you'd like to contribute to the development of Better One Dark Vivid, please follow these guidelines:
