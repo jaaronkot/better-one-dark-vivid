@@ -29,12 +29,6 @@
 				"label": "Better One Dark Vivid",
 				"uiTheme": "vs-dark",
 				"path": "./themes/BetterOneDarkVivid.json"
-			},
-			{
-				"id": "Better One Dark Vivid Cpp",
-				"label": "Better One Dark Vivid Cpp",
-				"uiTheme": "vs-dark",
-				"path": "./themes/BetterOneDarkVividCpp.json"
 			}
 		]
 	},
