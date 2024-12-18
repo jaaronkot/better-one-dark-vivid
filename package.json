@@ -2,7 +2,7 @@
 	"name": "better-one-dark-vivid-theme",
 	"displayName": "Better One Dark Vivid Theme",
 	"description": "Better One Dark Vivid Theme",
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"publisher": "devzhaoyou",
 	"license": "MIT",
 	"galleryBanner": {
@@ -10,7 +10,7 @@
 		"theme": "dark"
 	},
 	"engines": {
-		"vscode": "^1.96.0"
+		"vscode": "^1.12.0"
 	},
 	"categories": [
 		"Themes"
@@ -43,7 +43,7 @@
 	"__metadata": {
 		"id": "851f83d7-386f-49fb-9653-60e16cc5ed42",
 		"publisherId": "851f83d7-386f-49fb-9653-60e16cc5ed42",
-		"publisherDisplayName": "devzhaoyou",
+		"publisherDisplayName": "gezhaoyou",
 		"targetPlatform": "undefined",
 		"isApplicationScoped": false,
 		"isPreReleaseVersion": false,
