@@ -32,6 +32,13 @@ To install the OneDark Vivid theme, follow these steps:
 6. Select "Color Theme" from the dropdown menu.
 7. Choose "Better One Dark Vivid" from the list of available themes.
 
+## Build
+
+```bash
+npm install -g vsce
+vsce package
+```
+
 ## Contributing
 If you'd like to contribute to the development of Better One Dark Vivid, please follow these guidelines:
 
